@@ -1,0 +1,28 @@
+body,html {
+    height: 100%;
+    width:100%;
+    margin: 0;
+}
+.container {
+    background-image: url("1.jpg");
+    position: relative;
+    text-align: center;
+    
+}
+
+h1 {
+    color: red;
+    position: absolute;
+    font-size: 3rem;
+    top: 10%;
+    left: 30%;
+}
+
+#game {
+    color: blue;
+    font-size: 2rem;
+    position: absolute;
+    top:25%;
+    left: 30%;
+    
+}
